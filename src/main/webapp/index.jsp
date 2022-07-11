@@ -5,6 +5,10 @@
 <head>
 <meta charset="UTF-8">
 <title>Together</title>
+<!-- shqkel start -->
+<!-- shqkel end -->
+<!-- khstudy start -->
+<!-- khstudy end -->
 </head>
 <body>
 	<h1>Together</h1>
