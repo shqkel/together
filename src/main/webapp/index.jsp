@@ -8,6 +8,7 @@
 <!-- shqkel start -->
 <!-- shqkel end -->
 <!-- khstudy start -->
+<script>console.log('khstudy')</script>
 <!-- khstudy end -->
 </head>
 <body>
