@@ -13,6 +13,5 @@
 	<a href="<%= request.getContextPath() %>/khstudy">khstudy</a>
 	
 	<hr /> <!-- shqkel 작업 -->
-	
 </body>
 </html>
