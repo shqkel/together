@@ -11,5 +11,6 @@
 </head>
 <body>
     <h1>Together</h1>
+    <a href="${pageContext.request.contextPath}/khstudy">khstudy</a>
 </body>
 </html>
