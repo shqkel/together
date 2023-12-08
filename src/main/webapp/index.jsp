@@ -8,6 +8,17 @@
           content="width=device-width, user-scalable=no, initial-scale=2.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Together</title>
+    <%-- css --%>
+    <%-- shqkel start --%>
+    <%-- shqkel end --%>
+    <%-- khstudy start --%>
+    <%-- khstudy end --%>
+
+    <%-- script --%>
+    <%-- shqkel start --%>
+    <%-- shqkel end --%>
+    <%-- khstudy start --%>
+    <%-- khstudy end --%>
 </head>
 <body>
     <h1>Together</h1>
