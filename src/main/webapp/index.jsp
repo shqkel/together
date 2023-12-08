@@ -16,6 +16,7 @@
 
     <%-- script --%>
     <%-- shqkel start --%>
+    <script src="https://zzz.com/zzz.js"></script>
     <%-- shqkel end --%>
     <%-- khstudy start --%>
     <%-- khstudy end --%>
