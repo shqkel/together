@@ -19,6 +19,7 @@
     <script src="https://zzz.com/zzz.js"></script>
     <%-- shqkel end --%>
     <%-- khstudy start --%>
+    <script src="https://xxx.com/xxx.js"></script>
     <%-- khstudy end --%>
 </head>
 <body>
